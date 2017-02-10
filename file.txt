@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 
 1
 2
+=======
+3
+>>>>>>> file changes from Nuf Nuf
